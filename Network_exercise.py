@@ -1,4 +1,4 @@
-#script for analysing betweenness centrality in the road network of the Canton of ZH
+#script for analysing betweenness centrality in the road network of the Canton of ZH1
 import numpy as np
 import pandas as pd
 import networkx as nx
